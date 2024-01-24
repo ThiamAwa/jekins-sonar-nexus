@@ -14,9 +14,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
   
-   <properties>
- <sonar.ws.timeout>600000</sonar.ws.timeout> 
- </Properties>
+
 
   <dependencies>
     <dependency>
